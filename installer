@@ -1,0 +1,5 @@
+pkg update && pkg upgrade
+pkg instal git
+git clone https://github.com/MrOtong86/punyaku
+cd punyaku
+bash punyaku.sh
